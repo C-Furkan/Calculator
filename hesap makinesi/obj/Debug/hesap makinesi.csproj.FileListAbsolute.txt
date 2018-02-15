@@ -1,0 +1,6 @@
+c:\users\cemal\documents\visual studio 2015\Projects\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\Cemal\Documents\Visual Studio 2015\Projects\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\Cemal\Documents\Visual Studio 2015\Projects\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\Cemal\Documents\Visual Studio 2015\Projects\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Cemal\Documents\Visual Studio 2015\Projects\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\Cemal\Documents\Visual Studio 2015\Projects\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
